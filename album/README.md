@@ -1,2 +1,2 @@
-# album-react-native
+# react-native
 The Complete React Native Udemy's course 
